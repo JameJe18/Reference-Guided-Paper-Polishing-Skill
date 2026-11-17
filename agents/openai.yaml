@@ -1,0 +1,6 @@
+interface:
+  display_name: "参考论文仿写与润色"
+  short_description: "审阅项目证据、迁移参考论文写法并重构论文主稿与图注"
+  default_prompt: "Use $reference-guided-paper-polishing to audit this research project, learn transferable writing logic from the supplied papers, and rewrite the manuscript and figure legends."
+policy:
+  allow_implicit_invocation: true
